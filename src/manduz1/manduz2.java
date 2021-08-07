@@ -13,6 +13,7 @@ public class manduz2 {
 
 		System.out.println();
 		// amsajsj
+		//aa
 
 		
 	}
