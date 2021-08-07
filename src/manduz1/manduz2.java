@@ -9,6 +9,7 @@ public class manduz2 {
 		System.out.println("b1 cdshgcgfh");
 		// lololo
 		System.out.println("2");
+		System.out.println("aaaa");
 		
 	}
 
