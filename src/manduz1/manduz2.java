@@ -6,6 +6,8 @@ public class manduz2 {
 		System.out.println("b cdshgcgfh");
 		// ben bunu not ettim
 		System.out.println("b cdshgcgfh");
+		System.out.println("b1 cdshgcgfh");
+		
 	}
 
 }
